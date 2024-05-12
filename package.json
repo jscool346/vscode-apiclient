@@ -2,7 +2,7 @@
   "name": "vscode-api-client-lite",
   "displayName": "API Client Lite",
   "description": "Rest API Client for VS Code. Thunder Client / Postman alternative",
-  "version": "0.26.0",
+  "version": "0.26.1",
   "publisher": "KomaKamaki",
   "icon": "images/rest_icon.png",
   "galleryBanner": {
