@@ -3,7 +3,7 @@
   "displayName": "API Client Lite",
   "description": "REST Client for Visual Studio Code",
   "version": "0.26.0",
-  "publisher": "jscool",
+  "publisher": "KomaKamaki",
   "icon": "images/rest_icon.png",
   "galleryBanner": {
     "color": "#000000",
