@@ -1,13 +1,9 @@
 {
-  "name": "rest-client",
+  "name": "api-client",
   "displayName": "REST Client",
   "description": "REST Client for Visual Studio Code",
   "version": "0.26.0",
-  "publisher": "humao",
-  "author": {
-    "name": "Huachao Mao",
-    "email": "huachaomao@gmail.com"
-  },
+  "publisher": "jscool",
   "icon": "images/rest_icon.png",
   "galleryBanner": {
     "color": "#000000",
