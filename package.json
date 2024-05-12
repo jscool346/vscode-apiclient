@@ -1,6 +1,6 @@
 {
-  "name": "api-client",
-  "displayName": "REST Client",
+  "name": "vscode-api-client-lite",
+  "displayName": "API Client Lite",
   "description": "REST Client for Visual Studio Code",
   "version": "0.26.0",
   "publisher": "jscool",
@@ -32,7 +32,10 @@
     "REST",
     "Http",
     "GraphQL",
-    "multi-root ready"
+    "multi-root ready",
+    "thunder client",
+    "thunderclient",
+    "postman"
   ],
   "activationEvents": [
     "onLanguage:markdown"
